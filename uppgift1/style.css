@@ -1,0 +1,32 @@
+body{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+.square-red{
+    height: 50vh;
+    width: 50vw;
+    background-color: red;
+}
+
+.square-blue{
+    height: 50vh;
+    width: 50vw;
+    background-color: blue;
+}
+
+.square-green{
+    height: 50vh;
+    width: 50vw;
+    background-color: green;
+}
+
+.square-yellow{
+    height: 50vh;
+    width: 50vw;
+    background-color: yellow;
+}
+h1{
+    font-size: 2vw;
+}
