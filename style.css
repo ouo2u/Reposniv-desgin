@@ -1,0 +1,30 @@
+body{
+     width: 70vw;
+     height: 70vh;
+
+     margin: auto;
+
+}
+
+
+body > section{
+    background-color: aqua;
+
+    height: 100%;
+    width: 100%;
+}
+
+section{
+    
+
+    margin: auto;
+    
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 50%;
+    
+    height: 90vh;
+    width: 90vh;
+
+    background-color: yellow;
+}
